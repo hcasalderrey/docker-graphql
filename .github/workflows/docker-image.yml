@@ -32,4 +32,4 @@ jobs:
        
     - name: Push Docker Image
       run: |
-       docker push hjcasalderrey/docker-graphql:2.0.0 .
+       docker push hjcasalderrey/docker-graphql:2.0.0
