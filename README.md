@@ -21,8 +21,12 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
+
 ## Este repositorio se usa de prueba con la aplicación de NEST, para aprender DOCKER por GitHub Actions
 
+- lo que se vé acá es solo para uso practico.
+- Se hace desde el curso de devtalles con el profesor Fernando Herrera.
 
 ## Description
 
